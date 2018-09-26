@@ -1,3 +1,12 @@
+Pointers in C for Scientists
+-----------------------------
+
+Understanding pointers is critical for being able to write code in C, but
+pointers are often counter-intuitive. This explanation of pointers comes from a
+[blog post](https://bradduthie.github.io/blog/pointers-in-c-for-scientists/)
+that I wrote a while back on the subject. It also can serve as a very brief
+introduction to programming in C.
+
 Working with
 [arrays](https://en.wikipedia.org/wiki/Array_data_structure) of data
 (e.g., numeric vectors and matrices) is routine for scientific
