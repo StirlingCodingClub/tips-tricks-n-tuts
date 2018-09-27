@@ -6,8 +6,8 @@ Like this readme, the resources shared here should be added as markdown files (f
 
 Here are some tips on [mastering markdown](https://guides.github.com/features/mastering-markdown/) for those that haven't used it before.
 
-### Permission to edit
-At the moment you need to request permission to edit while we work out the best settings to use ([discussion here](https://github.com/StirlingCodingClub/studyGroup/issues/9#issuecomment-423822850)).
+## Permission to edit
+If you're part of the Stirling Coding Club you should automatically have write access to this repository.
 
 ### Discussion
 
